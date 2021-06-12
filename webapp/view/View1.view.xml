@@ -7,9 +7,9 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="{i18n>title}">
+				<Page id="page" title="{i18n>Hello 123}">
 					<content >
-<TextArea value="Test"></TextArea>
+<TextArea value="Hello 123"></TextArea>
                     </content>
 				</Page>
 			</pages>
